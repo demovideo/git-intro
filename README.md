@@ -1,2 +1,4 @@
 # git-intro
-Brief guide to using git
+
+Brief guide to using git written in markdown.
+
